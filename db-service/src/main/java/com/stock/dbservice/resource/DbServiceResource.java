@@ -24,6 +24,7 @@ public class DbServiceResource {
         return getQuotesByUserName(username);
     }
 
+
     @PostMapping("/add")
     public List<String> add(@RequestBody final Quotes quotes) {
 

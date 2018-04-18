@@ -15,6 +15,7 @@ public class Quotes {
         this.quotes = quotes;
     }
 
+
     public String getUserName() {
         return userName;
     }
