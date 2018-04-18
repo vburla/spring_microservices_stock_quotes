@@ -1,4 +1,4 @@
-package com.techprimers.stock.stockservice.config;
+package com.stock.stockservice.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

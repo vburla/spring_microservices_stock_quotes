@@ -1,4 +1,4 @@
-package com.techprimers.stock.eurekaservice;
+package com.stock.eurekaservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

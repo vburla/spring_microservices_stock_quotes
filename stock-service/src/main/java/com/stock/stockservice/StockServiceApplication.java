@@ -1,4 +1,4 @@
-package com.techprimers.stock.stockservice;
+package com.stock.stockservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

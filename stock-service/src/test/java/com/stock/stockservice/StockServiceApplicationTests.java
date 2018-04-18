@@ -1,4 +1,4 @@
-package com.techprimers.stock.stockservice;
+package com.stock.stockservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.techprimers.stock.stockservice.resource;
+package com.stock.stockservice.resource;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.ParameterizedTypeReference;

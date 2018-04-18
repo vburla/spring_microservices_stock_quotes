@@ -1,4 +1,4 @@
-package com.techprimers.stock.eurekaservice;
+package com.stock.eurekaservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
