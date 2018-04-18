@@ -1,6 +1,6 @@
-package com.techprimers.stock.dbservice.repository;
+package com.stock.dbservice.repository;
 
-import com.techprimers.stock.dbservice.model.Quote;
+import com.stock.dbservice.model.Quote;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

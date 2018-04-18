@@ -1,4 +1,4 @@
-package com.techprimers.stock.dbservice.model;
+package com.stock.dbservice.model;
 
 import javax.persistence.*;
 

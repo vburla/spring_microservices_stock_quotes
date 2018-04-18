@@ -1,8 +1,8 @@
-package com.techprimers.stock.dbservice.resource;
+package com.stock.dbservice.resource;
 
-import com.techprimers.stock.dbservice.model.Quote;
-import com.techprimers.stock.dbservice.model.Quotes;
-import com.techprimers.stock.dbservice.repository.QuotesRepository;
+import com.stock.dbservice.model.Quote;
+import com.stock.dbservice.model.Quotes;
+import com.stock.dbservice.repository.QuotesRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

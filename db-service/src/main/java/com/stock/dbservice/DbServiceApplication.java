@@ -1,4 +1,4 @@
-package com.techprimers.stock.dbservice;
+package co.stock.dbservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

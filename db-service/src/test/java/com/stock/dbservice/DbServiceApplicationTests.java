@@ -1,4 +1,4 @@
-package com.techprimers.stock.dbservice;
+package com.stock.dbservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
