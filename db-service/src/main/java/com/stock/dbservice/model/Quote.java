@@ -17,7 +17,7 @@ public class Quote {
     @Column(name = "quote")
     private String quote;
 
-    
+
     public Quote() {
     }
 

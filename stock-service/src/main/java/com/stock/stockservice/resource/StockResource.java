@@ -20,6 +20,7 @@ import java.util.stream.Collectors;
 @RequestMapping("/rest/stock")
 public class StockResource {
 
+
     @Autowired
     RestTemplate restTemplate;
 
